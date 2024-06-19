@@ -3,7 +3,7 @@ org: saralaprojects
 # "app" enables Serverless Framework Dashboard features and sharing them with other Services.
 app: awsnodejs
 # "service" is the name of this project. This will also be added to your AWS resource names.
-service: basic-serverless-lambda
+service: basic-serverless-lamda
 
 provider:
   name: aws
